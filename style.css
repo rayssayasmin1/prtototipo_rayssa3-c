@@ -3,9 +3,9 @@
 :root{
     --cor-de-fundo: #1E1E1E;
     --verde: #15c99c;
-    --branco: #b35959c9;
-    --botao-ativo: #3A375E; 
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --branco: hsla(0, 100%, 47%, 0.788);
+    --botao-ativo: hsl(180, 96%, 49%); 
+    --botao-inativo: #08e44a80;
     --texto-fundo: rgba(58, 55, 94, 0.3)
 }
      ;body  {
